@@ -1,0 +1,18 @@
+body{
+		background-image: url("http://www.betaarchive.com/imageupload/1304990899.or.90622.png")
+}
+
+.icon{
+		width:50px;
+		height:60px;
+}
+
+.rubish{
+		width:80px;
+		height:90px;
+}
+
+.right{
+		float: right;
+ 
+}
